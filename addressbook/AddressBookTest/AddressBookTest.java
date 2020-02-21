@@ -1,4 +1,4 @@
-package pqs.ps1.addressbook;
+package addressbook;
 
 import static org.junit.Assert.*;
 
